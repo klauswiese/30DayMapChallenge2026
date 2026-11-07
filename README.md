@@ -12,12 +12,12 @@ New maps are added daily, so the gallery below grows throughout November.
 | Day | Theme | Map | Code |
 |----:|-------|-----|------|
 | 01 | Points | <img src="01_Points/Tag01_Punkte_Grillen.png" width="260" alt="Day 1 – Barbecue areas in Berlin"><br>*Grillen in Berlin* | [R](01_Points/Tag01_Punkte_Grillen.R) |
-| 02 | Lines | *Coming 2 Nov* | |
-| 03 | Polygons | *Coming 3 Nov* | |
-| 04 | Clusters | *Coming 4 Nov* | |
-| 05 | Senses: Sight | *Coming 5 Nov* | |
-| 06 | Vintage | *Coming 6 Nov* | |
-| 07 | 10 minute map | *Coming 7 Nov* | |
+| 02 | Lines | *Coming soon* | |
+| 03 | Polygons | *Coming soon* | |
+| 04 | Clusters | *Coming soon* | |
+| 05 | Senses: Sight | *Coming soon* | |
+| 06 | Vintage | <img src="06_Vintage/Day06_Vintage_blueprint_EN.png" width="260" alt="Day 6 – Berlin city plan as a blueprint"><br>*Berlin Blueprint* · [diazo version](06_Vintage/Day06_Vintage_blueprint_EN_diazo.png) | [R](06_Vintage/Day06_Vintage.R) |
+| 07 | 10 minute map | *Coming soon* | |
 | 08 | Utopia | *Coming 8 Nov* | |
 | 09 | Urban-rural | *Coming 9 Nov* | |
 | 10 | Prompting only | *Coming 10 Nov* | |
@@ -50,12 +50,13 @@ New maps are added daily, so the gallery below grows throughout November.
 ├── README.md
 ├── 01_Points/
 │   ├── Tag01_Punkte_Grillen.R    # script
-│   └── Tag01_Punkte_Grillen.png  # final map
-├── 02_Lines/
+│   ├── Tag01_Punkte_Grillen.png  # final map
+│   └── README.md                 # notes, data and tools for the day
+├── 06_Vintage/
 └── ...
 ```
 
-Each day has its own folder named `NN_Theme`, containing the script and the exported map.
+Each day has its own folder named `NN_Theme`, containing the script, the exported map and a short README with the data sources and tools.
 
 
 ## Cartographic conventions
