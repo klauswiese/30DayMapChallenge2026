@@ -3,7 +3,7 @@
 My maps for the [#30DayMapChallenge](https://30daymapchallenge.com/2026/) 2026: 
 one map per day, 1–30 November, each on a different theme.
 
-Most maps focus on **Berlin and Germany**. The maps are made mainly with **R**, with occasional days in Python or Google Earth Engine.
+Most maps focus on **Berlin and Germany**. The maps are made mainly with **R**, with occasional days in Python, RustGIS or Google Earth Engine.
 
 New maps are added daily, so the gallery below grows throughout November.
 
@@ -20,7 +20,7 @@ New maps are added daily, so the gallery below grows throughout November.
 | 07 | 10 minute map | *Coming soon* | |
 | 08 | Utopia | *Coming 8 Nov* | |
 | 09 | Urban-rural | *Coming 9 Nov* | |
-| 10 | Prompting only | *Coming 10 Nov* | |
+| 10 | Prompting only | <img src="10_PromptingOnly/berlin_benches_rustgis.png" width="260" alt="Day 10 – Benches, picnic tables and water playgrounds in Berlin"><br>*32,569 places to sit down* | [Python](10_PromptingOnly/make_bench_map.py) |
 | 11 | Senses: Sound | *Coming 11 Nov* | |
 | 12 | Power | *Coming 12 Nov* | |
 | 13 | Interactions | *Coming 13 Nov* | |
